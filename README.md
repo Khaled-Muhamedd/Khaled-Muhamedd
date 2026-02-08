@@ -23,13 +23,13 @@ I am a dedicated **Fullstack Developer** specializing in the **.NET Ecosystem**.
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 ![Khaled's Stats](https://github-readme-stats.vercel.app/api?username=Khaled-Muhamedd&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Muhamedd&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 -  **LinkedIn:** [linkedin.com/in/khaled-muhamedd](https://www.linkedin.com/in/khaled-muhamedd)
 -  **Email:** [khamouda023@gmail.com](mailto:khamouda023@gmail.com)
 -  **Location:** Cairo, Egypt
