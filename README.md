@@ -1,6 +1,8 @@
-# 🚀 Hi there, I'm Khaled Muhamed! 
-### Senior-Level Fullstack .NET Developer | Software Architecture & DDD Specialist
-
+<p align="center">
+  <marquee behavior="alternate" scrollamount="8">
+    <h1>🚀 Hi there, I'm Khaled Muhamed! | Senior-Level Fullstack .NET Developer | Architecture & DDD Specialist 🏗️</h1>
+  </marquee>
+</p>
 ---
 
 ### 📝 Executive Summary
