@@ -30,8 +30,9 @@ I am a dedicated **Fullstack Developer** specializing in the **.NET Ecosystem**.
 ---
 
 ###  Let's Connect!
--  **LinkedIn:** [linkedin.com/in/khaled-muhamedd]([https://www.linkedin.com/in/khaled-muhamedd](https://www.linkedin.com/in/khaledhamouda-software-engineer/))
--  **Email:** [khamouda023@gmail.com](mailto:khamouda023@gmail.com)
--  **Location:** Cairo, Egypt
+-  **### Let's Connect!
+- **LinkedIn:** [Khaled Mohamed | Software Engineer](https://www.linkedin.com/in/khaledhamouda-software-engineer/)
+- **Email:** [khamouda023@gmail.com](mailto:khamouda023@gmail.com)
+- **Location:** Cairo, Egypt
 
 ---
