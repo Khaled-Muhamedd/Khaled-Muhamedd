@@ -1,7 +1,7 @@
 <p align="center">
-  <marquee behavior="alternate" scrollamount="8">
-    <h1>🚀 Hi there, I'm Khaled Muhamed! | Senior-Level Fullstack .NET Developer | Architecture & DDD Specialist 🏗️</h1>
-  </marquee>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=512BD4&center=true&vCenter=true&width=1000&lines=🚀+Hi+there,+I'm+Khaled+Muhamed!;Fullstack+.NET+Developer;Software+Architecture+%26+DDD+Specialist+🏗️" alt="Typing SVG" />
+  </a>
 </p>
 ---
 
