@@ -22,7 +22,7 @@ I am a dedicated **Fullstack Developer** specializing in the **.NET Ecosystem**.
 | ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white) | ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-orange?style=for-the-badge) |
 | ![PrimeNG](https://img.shields.io/badge/PrimeNG-blue?style=for-the-badge) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) | ![LINQ](https://img.shields.io/badge/LINQ-purple?style=for-the-badge) ![AutoMapper](https://img.shields.io/badge/AutoMapper-red?style=for-the-badge) |
 
-|  Database & DevOps | 🔧 Architecture & Tools |
+|  Database & DevOps |  Architecture & Tools |
 | :--- | :--- |
 | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | **Clean Architecture / SOLID / DRY** |
 | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | **Design Patterns (Unit of Work, Repository)** |
