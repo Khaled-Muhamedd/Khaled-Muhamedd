@@ -5,7 +5,7 @@
 </p>
 ---
 
-### 📝 Executive Summary
+###  Executive Summary
 I am a dedicated **Fullstack Developer** specializing in the **.NET Ecosystem**. I build scalable, high-performance web applications with a focus on **Clean Architecture** and **SOLID principles**. I love bridging the gap between robust backend logic and interactive user experiences using modern frontend frameworks.
 
 -  **Mathematics & Computer Science Student.**
@@ -14,9 +14,9 @@ I am a dedicated **Fullstack Developer** specializing in the **.NET Ecosystem**.
 
 ---
 
-### 🛠️ Core Competencies & Tech Stack
+###  Core Competencies & Tech Stack
 
-| 🌐 Frontend Development | ⚙️ Backend Mastery |
+|  Frontend Development |  Backend Mastery |
 | :--- | :--- |
 | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) |
 | ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white) | ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-orange?style=for-the-badge) |
